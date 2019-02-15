@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Tomáš
-subtitle: Let me introduce you to my side! (programmer | engineer | developer and such)
+subtitle: programmer | engineer | developer | blogging and such
 ---
 
 My name is Tomas Putna. I have the following qualities:
