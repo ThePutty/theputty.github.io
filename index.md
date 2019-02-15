@@ -4,7 +4,7 @@ title: Hi, I'm Tomáš
 subtitle: Let me introduce you to my side! (programmer | engineer | developer and such)
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Tomas Putna. I have the following qualities:
 
 - I rock a great mustache
 - I'm extremely loyal to my family
