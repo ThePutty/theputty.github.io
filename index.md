@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hi, I'm Tomáš
+subtitle: Let me introduce you to my side! (programmer | engineer | developer and such)
 ---
 
 My name is Inigo Montoya. I have the following qualities:
