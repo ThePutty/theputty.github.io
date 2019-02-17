@@ -16,4 +16,4 @@
 
 ## Blog 
 
-For editing my blog I use prose.io, which is just a simple interface to allow you to more intuitively edit files or add new files to your project.
+For editing my blog I use <prose.io>, which is just a simple interface to allow you to more intuitively edit files or add new files to your project.
