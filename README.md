@@ -5,6 +5,7 @@
 ### Table of contents
 
 - [Introduction](#introduction)
+- [Blog](#blog)
 
 ## Introduction
 
@@ -13,3 +14,6 @@
 - Thanks to https://github.com/daattali
 - Web is base on Markdown.
 
+## Blog 
+
+For editing my blog I use prose.io, which is just a simple interface to allow you to more intuitively edit files or add new files to your project.
