@@ -1,8 +1,4 @@
 ---
-published: false
----
-
----
 layout: post
 title: Beautiful Jekyll
 subtitle: How build this web
