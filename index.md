@@ -1,11 +1,12 @@
 ---
 layout: page
 title: Hi, I'm Tomáš
-subtitle: programmer | engineer | developer | IT and such
+subtitle: For a start, my favourite quote is: „The wise have eyes in their heads, while the fool walks in the darkness“
 ---
 
 My name is Tomas Putna. I have the following qualities:
 
+- programmer | engineer | developer | IT and such
 - I rock a great mustache
 - I'm extremely loyal to my family
 
