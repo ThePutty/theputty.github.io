@@ -11,7 +11,6 @@
 
 - You need to have a GitHub account. 
 - Easy to use.
-- Thanks to https://github.com/daattali
 - Web is base on Markdown.
 
 ## Blog 
