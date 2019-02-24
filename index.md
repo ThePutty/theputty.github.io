@@ -6,7 +6,7 @@ subtitle: For a start, my favourite quote is „The wise have eyes in their head
 
 My name is Tomas Putna. I have the following qualities:
 
-- programmer | engineer | developer | IT and such
+- programmer, engineer, developer, IT and such
 - I rock a great mustache
 - I'm extremely loyal to my family
 
