@@ -1,17 +1,40 @@
 ---
 layout: page
 title: Hi, I'm Tomáš
-subtitle: For a start, my favourite quote is „The wise have eyes in their heads, while the fool walks in the darkness“
+subtitle: A little introduction about myself
 ---
 
-My name is Tomas Putna. I have the following qualities:
+### About Me
+***
+
+My name is Tomas Putna.
 
 - programmer, engineer, developer, IT and such
 - I rock a great mustache
 - I'm extremely loyal to my family
 
-What else do you need?
 
-### my history
+### Education
+***
+![image]({{ site.baseurl }}/img/vsb-logo.png){: height="40px" width="40px"} &nbsp;&nbsp; **Technical University of Ostrava**
+  - **Ph.D. at Information Technology** 
+    - *2018 - present*
+    - Information and communication technologies
+  - **Master's degree at Information Technology** 
+    - *2016 - 2018*
+    - Information and communication technologies
+  - **Bachelor's degree at Information Technology** 
+    - *2013 - 2016*
+    - Information and communication technologies
+  - **VOS a SPS Šumperk** 
+    - 2009 - 2013*
+    - Information technology
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+### Work Positions
+***
+#### Experiences
+![image]({{ site.baseurl }}/img/it4i-logo.png){: height="40px" width="40px"} &nbsp;&nbsp; **IT4Innovations National Supercomputing Center**
+  - **HPC Information System Specialist** 
+    - *October 2016 – Present*
+    - Creating a new information system for managing users and projects computing at HPC clusters. Automate repetitive activities and simplify administration of computing resources for the HPC Admin Team to decrease their workload.
+
