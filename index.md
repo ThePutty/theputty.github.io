@@ -12,6 +12,11 @@ subtitle: A little introduction about myself
 - Strong information technology professional with a Master’s degree focused in Information Technology from the Technical University of Ostrava.
 - My diploma thesis was focused on "Measurement of Triple Play Services in Hybrid Network". Configure all services through application layer(7) to physical layer(1). Optical and metallic directions using SOA (Semiconductor optical amplifiers)
 
+### Languages
+***
+- Czech (native)
+- English
+
 ### Education
 ***
 ![image]({{ site.baseurl }}/img/vsb-logo.png){: height="40px" width="40px"} &nbsp;&nbsp; **Technical University of Ostrava**
@@ -27,6 +32,10 @@ subtitle: A little introduction about myself
   - **VOS a SPS Šumperk** 
     - 2009 - 2013*
     - Information technology
+    
+## Courses
+- Cisco Systems - Packet Tracer (basic)
+- Git - Version Control System
 
 ### Work Positions
 ***
