@@ -29,7 +29,7 @@ subtitle: A little introduction about myself
     - *2013 - 2016*
     - Information and communication technologies
   - **VOS a SPS Šumperk** 
-    - 2009 - 2013*
+    - *2009 - 2013*
     - Information technology
     
 #### Courses
