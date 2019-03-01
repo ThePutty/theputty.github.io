@@ -1,18 +1,16 @@
 ---
 layout: page
-title: Hi, I'm Tomáš
+title: Hi, I'm Tomas
 subtitle: A little introduction about myself
 ---
 
 ### About Me
 ***
-
-My name is Tomas Putna.
-
-- programmer, engineer, developer, IT and such
-- I rock a great mustache
-- I'm extremely loyal to my family
-
+- My name is Tomas Putna.
+- I’m an experienced Information System Specialist with a demonstrated history of working in the research industry. 
+- Skilled in Programming Languages, Web Applications, Python, Flask and Ruby on Rails Framework.
+- Strong information technology professional with a Master’s degree focused in Information Technology from the Technical University of Ostrava.
+- My diploma thesis was focused on "Measurement of Triple Play Services in Hybrid Network". Configure all services through application layer(7) to physical layer(1). Optical and metallic directions using SOA (Semiconductor optical amplifiers)
 
 ### Education
 ***
