@@ -8,7 +8,6 @@ subtitle: A little introduction about myself
 ***
 - I’m an experienced Information System Specialist with a demonstrated history of working in the research industry. 
 - Skilled in Programming Languages, Web Applications, Python, Flask and Ruby on Rails Framework.
-- Strong information technology professional with a Master’s degree focused in Information Technology from the Technical University of Ostrava.
 - My diploma thesis was focused on "Measurement of Triple Play Services in Hybrid Network". Configure all services through application layer(7) to physical layer(1). I measured on various metallic and optical paths using SOA (Semiconductor optical amplifiers). I have been researching QoS on all services.
 
 ### Languages
