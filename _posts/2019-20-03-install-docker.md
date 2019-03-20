@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post!
+title: How to install docker
 image: /img/hello_world.jpeg
 ---
 
