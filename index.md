@@ -10,11 +10,6 @@ subtitle: A little introduction about myself
 - Skilled in Programming Languages, Web Applications, Python, Flask and Ruby on Rails Framework.
 - My diploma thesis was focused on "Measurement of Triple Play Services in Hybrid Network". Configure all services through application layer(7) to physical layer(1). I measured on various metallic and optical paths using SOA (Semiconductor optical amplifiers). I have been researching QoS on all services.
 
-### Languages
-***
-- Czech (native)
-- English
-
 ### Education
 ***
 ![image]({{ site.baseurl }}/img/vsb-logo.png){: height="40px" width="40px"} &nbsp;&nbsp; **Technical University of Ostrava**
