@@ -27,7 +27,4 @@ subtitle: A little introduction about myself
   - **Bachelor's degree at Information Technology** 
     - *2013 - 2016*
     - Information and communication technologies
-  - **VOS a SPS Šumperk** 
-    - *2009 - 2013*
-    - Information technology
     
