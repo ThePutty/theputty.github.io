@@ -31,15 +31,3 @@ subtitle: A little introduction about myself
     - *2009 - 2013*
     - Information technology
     
-#### Courses
-- Cisco Systems - Packet Tracer (basic)
-- Git - Version Control System
-
-### Work Positions
-***
-#### Experiences
-![image]({{ site.baseurl }}/img/it4i-logo.png){: height="40px" width="40px"} &nbsp;&nbsp; **IT4Innovations National Supercomputing Center**
-  - **HPC Information System Specialist** 
-    - *October 2016 – Present*
-    - Creating a new information system for managing users and projects computing at HPC clusters. Automate repetitive activities and simplify administration of computing resources for the HPC Admin Team to decrease their workload.
-
