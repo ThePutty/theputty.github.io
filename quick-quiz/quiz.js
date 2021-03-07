@@ -77,9 +77,9 @@ function render(quiz_opts) {
     .attr("class", "quiz-answers")
     .appendTo($title_slide);
 
-  $('<h1>')
+  $('<hr>')
     .text("")
-    .attr('class', 'quiz-oath')
+    .attr('class', 'quiz-margin')
     .appendTo($title_slide);
 
   $('<h3>')

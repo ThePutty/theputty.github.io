@@ -107,6 +107,13 @@ html, body {
   font-weight: 300;
 }
 
+.quiz-margin {
+  display: block;
+  text-align: center;
+  padding-top: 50px !important;
+}
+
+
 .results-ratio {
   margin: 20px auto;
   font-size: 24px;
