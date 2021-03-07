@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Ano"
+      ],
+      "correct": {
+        "index": 0
+      },
+      "number": 1,
+      "prompt": "Jsi p\u0159ipraven?"
+    }
+  ],
+  "title": "Hodnosti v A\u010cR.",
+  "url": "http://tomasputna.github.io/quick-quiz/"
+}

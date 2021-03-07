@@ -1,0 +1,18 @@
+// example quiz text
+// @Puty
+// <- (this is a comment and will be ignored)
+
+// this is the url for the parent
+url: http://tomasputna.github.io/quick-quiz/
+
+// this is the title of the quiz
+# Hodnosti v AČR.
+
+// this is an example question.
+// the number signifies the question order,
+// meaning questions can be placed in random order
+// within the file
+
+1) Jsi připraven?
+  * Ano
+  - Ne

@@ -224,7 +224,7 @@ var $indicators = $('<ol>')
               "% of the questions correct!"
             );
             $twitter_link.attr('href', tweet(state, quiz_opts));
-            $facebook_link.attr('href', facebook(state, quiz_opts));
+            //$facebook_link.attr('href', facebook(state, quiz_opts));
             $indicators.removeClass('show');
             // indicate the question number
             $indicators.find('li')
@@ -281,11 +281,11 @@ var $indicators = $('<ol>')
   var $twitter_link = $('<a>')
     .html('<span class="social social-twitter follow-tw"></span>')
     .appendTo($social);
-
+  /*
   var $facebook_link = $('<a>')
     .html('<span class="social social-facebook follow-fb"></span>')
     .appendTo($social);
-
+  */
   $("<button>")
     .attr('class', 'quiz-button btn')
     .text("Try again?")
@@ -351,11 +351,11 @@ function tweet(state, opts) {
   );
 
 }
-
+/*
 function facebook(state, opts) {
   return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
 }
-
+*/
 
 })(jQuery);
 
