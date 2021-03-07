@@ -175,7 +175,7 @@ var $indicators = $('<ol>')
       if (correct) {
         opts = $.extend(opts, {
           title: "Nice!",
-          text: "Well done" + (
+          text: "Výborně" + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
               question.correct.text +
@@ -185,10 +185,10 @@ var $indicators = $('<ol>')
         });
       } else {
         opts = $.extend(opts, {
-          title: "Drat",
+          title: "Škoda",
           text: (
-            "Nope, not quite right!<br/><br/>" +
-            "The correct answer was \"" +
+            "Není to úplně správně!<br/><br/>" +
+            "Správná odpověd byla \"" +
             question.answers[question.correct.index] + "\"." + (
             question.correct.text ?
             ("<div class=\"correct-text\">" +
@@ -219,9 +219,9 @@ var $indicators = $('<ol>')
           if (last_question) {
             $results_title.html(resultsText(state));
             $results_ratio.text(
-              "You got " +
+              "Máš " +
               Math.round(100*(state.correct/state.total)) +
-              "% of the questions correct!"
+              "% otázek správně!"
             );
             //$twitter_link.attr('href', tweet(state, quiz_opts));
             //$facebook_link.attr('href', facebook(state, quiz_opts));
@@ -275,7 +275,7 @@ var $indicators = $('<ol>')
   
   var $social = $("<div>")
     .attr('class', 'results-social')
-    .html('<div id = "social-text">Vytvořeno s láskou!!!</div>')
+    .html('<div id = "social-text">Made of love!!!</div>')
     .appendTo($results_slide);
   /*
   var $twitter_link = $('<a>')
@@ -288,7 +288,7 @@ var $indicators = $('<ol>')
   */
   $("<button>")
     .attr('class', 'quiz-button btn')
-    .text("Try again?")
+    .text("Zkusit znovu?")
     .click(function() {
       state.correct = 0;
       $quiz.carousel(0);
