@@ -79,7 +79,7 @@ function render(quiz_opts) {
 
   $('<h1>')
     .text("")
-    .attr('class', 'quiz-title')
+    .attr('class', 'quiz-oath')
     .appendTo($title_slide);
 
   $('<h3>')
