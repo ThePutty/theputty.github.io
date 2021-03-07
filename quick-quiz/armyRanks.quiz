@@ -3,144 +3,140 @@ url: http://tomasputna.github.io/quick-quiz/
 // this is the title of the quiz
 # Hodnosti v AČR
 
-1) Jsi připraven? 
-  * Ano
-  - Ne
-
-2) Znám tuto hodnost?
+1) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/vojin.png
 
   HODNOSTNÍ SBOR MUŽSTVO - vojín - OR-1
 
-3) Znám tuto hodnost?
+2) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/svobodnik.png
 
   HODNOSTNÍ SBOR MUŽSTVO - svobodník - OR-1
 
-4) Znám tuto hodnost?
+3) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/desatnik.png
 
   HODNOSTNÍ SBOR PODDŮSTOJNÍCI - desátník - OR-2
 
-5) Znám tuto hodnost?
+4) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/cetar.png
 
   HODNOSTNÍ SBOR PODDŮSTOJNÍCI - četař - OR-3
 
-6) Znám tuto hodnost?
+5) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/rotny.png
 
   HODNOSTNÍ SBOR PODDŮSTOJNÍCI - rotný - OR-4
 
-7) Znám tuto hodnost?
+6) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/rotmistr.png
 
   HODNOSTNÍ SBOR PRAPORČÍCI - rotmistr - OR-5
 
-8) Znám tuto hodnost?
+7) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/nadrotmistr.png
 
   HODNOSTNÍ SBOR PRAPORČÍCI - nadrotmistr - OR-6
 
-9) Znám tuto hodnost?
+8) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/praporcik.png
 
   HODNOSTNÍ SBOR PRAPORČÍCI - praporčík - OR-7
 
-10) Znám tuto hodnost?
+9) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/nadpraporcik.png
 
   HODNOSTNÍ SBOR PRAPORČÍCI - nadpraporčík - OR-8
 
-11) Znám tuto hodnost?
+10) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/stabnipraporcik.png
 
   HODNOSTNÍ SBOR PRAPORČÍCI - štábní praporčík - OR-9
 
-12) Znám tuto hodnost?
+11) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/porucik.png
 
   HODNOSTNÍ SBOR NIŽŠÍ DŮSTOJNÍCI - poručík - OF-1
 
-13) Znám tuto hodnost?
+12) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/nadporucik.png
 
   HODNOSTNÍ SBOR NIŽŠÍ DŮSTOJNÍCI - nadporučík - OF-1
 
-14) Znám tuto hodnost?
+13) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/kapitan.png
 
   HODNOSTNÍ SBOR NIŽŠÍ DŮSTOJNÍCI - kapitán - OF-2
 
-15) Znám tuto hodnost?
+14) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/major.png
 
   HODNOSTNÍ SBOR VYŠŠÍ DŮSTOJNÍCI - major - OF-3
 
-16) Znám tuto hodnost?
+15) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/podplukovnik.png
 
   HODNOSTNÍ SBOR VYŠŠÍ DŮSTOJNÍCI - podplukovník - OF-4
 
-17) Znám tuto hodnost?
+16) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/plukovnik.png
 
   HODNOSTNÍ SBOR VYŠŠÍ DŮSTOJNÍCI - plukovník - OF-5
 
-18) Znám tuto hodnost?
+17) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/brigadnigeneral.png
 
   HODNOSTNÍ SBOR GENERÁLOVÉ - brigádní generál	 - OF-5
 
-19) Znám tuto hodnost?
+18) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/generalmajor.png
 
   HODNOSTNÍ SBOR GENERÁLOVÉ - generálmajor - OF-7
 
-20) Znám tuto hodnost?
+19) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/generalporucik.png
 
   HODNOSTNÍ SBOR GENERÁLOVÉ - generálporučík - OF-8
 
-21) Znám tuto hodnost?
+20) Znám tuto hodnost?
   * Ano
   - Ne
   (image) img/armyRanks/newGraphicArmyRanks/armadnigeneral.png
