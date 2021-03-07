@@ -3,6 +3,7 @@
 import re
 import sys
 import json
+import random
 
 
 #
@@ -90,6 +91,9 @@ def toJson(filename):
 
     results.append(out)
 
+  # shuffle list question
+  random.shuffle(results)
+  
   with open(filename.split('.')[0] + ".json", 'w') as outfile:
     json.dump(
       {

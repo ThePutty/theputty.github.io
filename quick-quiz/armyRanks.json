@@ -2,16 +2,6 @@
   "questions": [
     {
       "answers": [
-        "Ano"
-      ],
-      "correct": {
-        "index": 0
-      },
-      "number": 1,
-      "prompt": "Jsi p\u0159ipraven?"
-    },
-    {
-      "answers": [
         "Ano",
         "Ne"
       ],
@@ -20,7 +10,7 @@
         "text": "HODNOSTN\u00cd SBOR MU\u017dSTVO - voj\u00edn - OR-1"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/vojin.png",
-      "number": 2,
+      "number": 1,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -33,7 +23,7 @@
         "text": "HODNOSTN\u00cd SBOR MU\u017dSTVO - svobodn\u00edk - OR-1"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/svobodnik.png",
-      "number": 3,
+      "number": 2,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -46,7 +36,7 @@
         "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - des\u00e1tn\u00edk - OR-2"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/desatnik.png",
-      "number": 4,
+      "number": 3,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -59,7 +49,7 @@
         "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - \u010deta\u0159 - OR-3"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/cetar.png",
-      "number": 5,
+      "number": 4,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -72,7 +62,7 @@
         "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - rotn\u00fd - OR-4"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/rotny.png",
-      "number": 6,
+      "number": 5,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -85,7 +75,7 @@
         "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - rotmistr - OR-5"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/rotmistr.png",
-      "number": 7,
+      "number": 6,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -98,7 +88,7 @@
         "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - nadrotmistr - OR-6"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/nadrotmistr.png",
-      "number": 8,
+      "number": 7,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -111,7 +101,7 @@
         "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - prapor\u010d\u00edk - OR-7"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/praporcik.png",
-      "number": 9,
+      "number": 8,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -124,7 +114,7 @@
         "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - nadprapor\u010d\u00edk - OR-8"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/nadpraporcik.png",
-      "number": 10,
+      "number": 9,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -137,7 +127,7 @@
         "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - \u0161t\u00e1bn\u00ed prapor\u010d\u00edk - OR-9"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/stabnipraporcik.png",
-      "number": 11,
+      "number": 10,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -150,7 +140,7 @@
         "text": "HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI - poru\u010d\u00edk - OF-1"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/porucik.png",
-      "number": 12,
+      "number": 11,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -163,7 +153,7 @@
         "text": "HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI - nadporu\u010d\u00edk - OF-1"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/nadporucik.png",
-      "number": 13,
+      "number": 12,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -176,7 +166,7 @@
         "text": "HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI - kapit\u00e1n - OF-2"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/kapitan.png",
-      "number": 14,
+      "number": 13,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -189,7 +179,7 @@
         "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - major - OF-3"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/major.png",
-      "number": 15,
+      "number": 14,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -202,7 +192,7 @@
         "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - podplukovn\u00edk - OF-4"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/podplukovnik.png",
-      "number": 16,
+      "number": 15,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -215,7 +205,7 @@
         "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - plukovn\u00edk - OF-5"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/plukovnik.png",
-      "number": 17,
+      "number": 16,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -228,7 +218,7 @@
         "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - brig\u00e1dn\u00ed gener\u00e1l\t - OF-5"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/brigadnigeneral.png",
-      "number": 18,
+      "number": 17,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -241,7 +231,7 @@
         "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - gener\u00e1lmajor - OF-7"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/generalmajor.png",
-      "number": 19,
+      "number": 18,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -254,7 +244,7 @@
         "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - gener\u00e1lporu\u010d\u00edk - OF-8"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/generalporucik.png",
-      "number": 20,
+      "number": 19,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -267,7 +257,7 @@
         "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - arm\u00e1dn\u00ed gener\u00e1l - OF-9"
       },
       "image": "img/armyRanks/newGraphicArmyRanks/armadnigeneral.png",
-      "number": 21,
+      "number": 20,
       "prompt": "Zn\u00e1m tuto hodnost?"
     }
   ],
