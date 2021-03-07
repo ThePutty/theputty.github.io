@@ -97,7 +97,7 @@ def toJson(filename):
   with open(filename.split('.')[0] + ".json", 'w') as outfile:
     json.dump(
       {
-        "questions" : sorted(results, key=lambda x: x['number']),
+        "questions" : results,
         "title" : title,
         "url" : url
       },
