@@ -272,7 +272,7 @@ var $indicators = $('<ol>')
   var $restart_button = $("<div>")
     .attr("class", "quiz-answers")
     .appendTo($results_slide);
-
+  /*
   var $social = $("<div>")
     .attr('class', 'results-social')
     .html('<div id = "social-text">Did you like the quiz? Share your results with your friends, so they can give it a shot!</div>')
@@ -281,7 +281,7 @@ var $indicators = $('<ol>')
   var $twitter_link = $('<a>')
     .html('<span class="social social-twitter follow-tw"></span>')
     .appendTo($social);
-  /*
+  
   var $facebook_link = $('<a>')
     .html('<span class="social social-facebook follow-fb"></span>')
     .appendTo($social);
@@ -335,7 +335,7 @@ function resultsText(state) {
 
 }
 
-
+/*
 function tweet(state, opts) {
 
   var body = (
@@ -351,7 +351,7 @@ function tweet(state, opts) {
   );
 
 }
-/*
+
 function facebook(state, opts) {
   return "https://www.facebook.com/sharer/sharer.php?u=" + opts.url;
 }
