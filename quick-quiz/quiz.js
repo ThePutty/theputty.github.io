@@ -73,13 +73,19 @@ function render(quiz_opts) {
     .attr('class', 'quiz-title')
     .appendTo($title_slide);
 
-  $('<h4>')
-    .text("asdasasdasd'<br>'asdad")
-    //.attr('class', 'quiz-title')
-    .appendTo($title_slide);
-
   var $start_button = $("<div>")
     .attr("class", "quiz-answers")
+    .appendTo($title_slide);
+
+
+  $('<h4>')
+    .text("Já, voják, vědom si svých občanských a vlasteneckých povinností, slavnostně prohlašuji, že budu věrný České republice.")
+    .attr('class', 'quiz-oath')
+    .appendTo($title_slide);
+
+  $('<h4>')
+    .text("Budu vojákem statečným a ukázněným, budu plnit úkoly ozbrojených sil a budu dodržovat právní a vojenské předpisy.")
+    .attr('class', 'quiz-oath')
     .appendTo($title_slide);
 
 var $indicators = $('<ol>')
