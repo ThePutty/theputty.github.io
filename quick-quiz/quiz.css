@@ -47,11 +47,9 @@ html, body {
 }
 
 
-
 .question-image {
-    width: 20%;
-    height: 20%;
-    max-width: 500px;
+    width: 100%;
+    max-width: 100px;
     margin-bottom: -80px;
     margin: 0 auto;
 }
