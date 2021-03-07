@@ -77,7 +77,7 @@ function render(quiz_opts) {
     .attr("class", "quiz-answers")
     .appendTo($title_slide);
 
-  $('<hr>')
+  $('<div>')
     .text("")
     .attr('class', 'quiz-margin')
     .appendTo($title_slide);
