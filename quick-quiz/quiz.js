@@ -74,7 +74,7 @@ function render(quiz_opts) {
     .appendTo($title_slide);
 
   $('<h4>')
-    .text("asdasasdasd<br>asdad")
+    .text("asdasasdasd'<br>'asdad")
     //.attr('class', 'quiz-title')
     .appendTo($title_slide);
 
