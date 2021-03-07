@@ -78,7 +78,7 @@ function render(quiz_opts) {
     .appendTo($title_slide);
 
 
-  $('<h1><div>')
+  $('<h1 div>')
     .text("Já, voják, vědom si svých občanských a vlasteneckých povinností, slavnostně prohlašuji, že budu věrný České republice.")
     .attr('class', 'quiz-oath')
     .appendTo($title_slide);
