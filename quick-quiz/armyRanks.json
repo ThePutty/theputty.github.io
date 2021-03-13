@@ -7,11 +7,10 @@
       ],
       "correct": {
         "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - prapor\u010d\u00edk - OR-7"
+        "text": "Voj\u00edn - Svobodn\u00ed"
       },
-      "image": "img/armyRanks/newGraphicArmyRanks/praporcik.png",
-      "number": 8,
-      "prompt": "Zn\u00e1m tuto hodnost?"
+      "number": 21,
+      "prompt": "Zn\u00e1m HODNOSTN\u00cd SBOR MU\u017dSTVO?"
     },
     {
       "answers": [
@@ -20,24 +19,10 @@
       ],
       "correct": {
         "index": 0,
-        "text": "HODNOSTN\u00cd SBOR MU\u017dSTVO - svobodn\u00edk - OR-1"
+        "text": "Rotmistr - Nadrotmistr - Prapor\u010d\u00edk - Nadprapor\u010d\u00edk - \u0160t\u00e1bn\u00ed prapor\u010d\u00edk"
       },
-      "image": "img/armyRanks/newGraphicArmyRanks/svobodnik.png",
-      "number": 2,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - major - OF-3"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/major.png",
-      "number": 14,
-      "prompt": "Zn\u00e1m tuto hodnost?"
+      "number": 23,
+      "prompt": "Zn\u00e1m HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI?"
     },
     {
       "answers": [
@@ -50,188 +35,6 @@
       },
       "image": "img/armyRanks/newGraphicArmyRanks/brigadnigeneral.png",
       "number": 17,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - \u0161t\u00e1bn\u00ed prapor\u010d\u00edk - OR-9"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/stabnipraporcik.png",
-      "number": 10,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - nadprapor\u010d\u00edk - OR-8"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/nadpraporcik.png",
-      "number": 9,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - arm\u00e1dn\u00ed gener\u00e1l - OF-9"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/armadnigeneral.png",
-      "number": 20,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - des\u00e1tn\u00edk - OR-2"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/desatnik.png",
-      "number": 3,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR MU\u017dSTVO - voj\u00edn - OR-1"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/vojin.png",
-      "number": 1,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - \u010deta\u0159 - OR-3"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/cetar.png",
-      "number": 4,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - podplukovn\u00edk - OF-4"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/podplukovnik.png",
-      "number": 15,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - rotmistr - OR-5"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/rotmistr.png",
-      "number": 6,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - rotn\u00fd - OR-4"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/rotny.png",
-      "number": 5,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI - nadporu\u010d\u00edk - OF-1"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/nadporucik.png",
-      "number": 12,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - nadrotmistr - OR-6"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/nadrotmistr.png",
-      "number": 7,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI - poru\u010d\u00edk - OF-1"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/porucik.png",
-      "number": 11,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - plukovn\u00edk - OF-5"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/plukovnik.png",
-      "number": 16,
-      "prompt": "Zn\u00e1m tuto hodnost?"
-    },
-    {
-      "answers": [
-        "Ano",
-        "Ne"
-      ],
-      "correct": {
-        "index": 0,
-        "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - gener\u00e1lmajor - OF-7"
-      },
-      "image": "img/armyRanks/newGraphicArmyRanks/generalmajor.png",
-      "number": 18,
       "prompt": "Zn\u00e1m tuto hodnost?"
     },
     {
@@ -258,6 +61,275 @@
       },
       "image": "img/armyRanks/newGraphicArmyRanks/kapitan.png",
       "number": 13,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - des\u00e1tn\u00edk - OR-2"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/desatnik.png",
+      "number": 3,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - rotmistr - OR-5"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/rotmistr.png",
+      "number": 6,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR MU\u017dSTVO - svobodn\u00edk - OR-1"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/svobodnik.png",
+      "number": 2,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - \u0161t\u00e1bn\u00ed prapor\u010d\u00edk - OR-9"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/stabnipraporcik.png",
+      "number": 10,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - plukovn\u00edk - OF-5"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/plukovnik.png",
+      "number": 16,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - nadprapor\u010d\u00edk - OR-8"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/nadpraporcik.png",
+      "number": 9,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR MU\u017dSTVO - voj\u00edn - OR-1"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/vojin.png",
+      "number": 1,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI - poru\u010d\u00edk - OF-1"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/porucik.png",
+      "number": 11,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - prapor\u010d\u00edk - OR-7"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/praporcik.png",
+      "number": 8,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - \u010deta\u0159 - OR-3"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/cetar.png",
+      "number": 4,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PRAPOR\u010c\u00cdCI - nadrotmistr - OR-6"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/nadrotmistr.png",
+      "number": 7,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - major - OF-3"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/major.png",
+      "number": 14,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - arm\u00e1dn\u00ed gener\u00e1l - OF-9"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/armadnigeneral.png",
+      "number": 20,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9 - gener\u00e1lmajor - OF-7"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/generalmajor.png",
+      "number": 18,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI - rotn\u00fd - OR-4"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/rotny.png",
+      "number": 5,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Des\u00e1tn\u00edk - \u010ceta\u0159 - Rotn\u00fd"
+      },
+      "number": 22,
+      "prompt": "Zn\u00e1m HODNOSTN\u00cd SBOR PODD\u016eSTOJN\u00cdCI?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Major - Podplukovn\u00edk - Plukovn\u00edk"
+      },
+      "number": 25,
+      "prompt": "Zn\u00e1m HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI - nadporu\u010d\u00edk - OF-1"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/nadporucik.png",
+      "number": 12,
+      "prompt": "Zn\u00e1m tuto hodnost?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Brig\u00e1dn\u00ed gener\u00e1l - Gener\u00e1lmajor - Gener\u00e1lporu\u010d\u00edk - Arm\u00e1dn\u00ed gener\u00e1l"
+      },
+      "number": 26,
+      "prompt": "HODNOSTN\u00cd SBOR GENER\u00c1LOV\u00c9?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "Poru\u010d\u00edk - Nadporu\u010d\u00edk - Kapit\u00e1n"
+      },
+      "number": 24,
+      "prompt": "Zn\u00e1m HODNOSTN\u00cd SBOR NI\u017d\u0160\u00cd D\u016eSTOJN\u00cdCI?"
+    },
+    {
+      "answers": [
+        "Ano",
+        "Ne"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "HODNOSTN\u00cd SBOR VY\u0160\u0160\u00cd D\u016eSTOJN\u00cdCI - podplukovn\u00edk - OF-4"
+      },
+      "image": "img/armyRanks/newGraphicArmyRanks/podplukovnik.png",
+      "number": 15,
       "prompt": "Zn\u00e1m tuto hodnost?"
     }
   ],
