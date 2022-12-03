@@ -13,6 +13,11 @@
 - Easy to use.
 - Web is base on Markdown.
 
+## Quick quiz
+
+[![Quiz](https://www.tomasputna.cz/quick-quiz/)
+
+
 ## Blog 
 
 For editing my blog I use to [prose.io](https://prose.io/), which is just a simple interface to allow you to more intuitively edit files or add new files to your project.
