@@ -14,7 +14,7 @@
 - Web is base on Markdown.
 
 ## Quick quiz
-[Quiz]([https://prose.io/](https://tomasputna.github.io/quick-quiz/))
+[Quiz](https://tomasputna.github.io/quick-quiz/)
 
 ## Blog 
 
